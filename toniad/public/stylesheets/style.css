@@ -1,0 +1,10 @@
+@import url('https://blogfonts.com/css/aWQ9MTUxODgxJnN1Yj04ODEmYz1sJnR0Zj1MYXlhckJhaHRlcmErRG9vbXNkYXkrQm9sZC50dGYmbj1sYXlhcmJhaHRlcmEtZG9vbXNkYXktLTQ/LayarBahtera Doomsday .ttf');
+
+body {
+  padding: 50px;
+  font-family: 'layarbahtera-doomsday--4', sans-serif; 
+}
+
+a {
+  color: #00B7FF;
+}
